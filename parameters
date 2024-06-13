@@ -5,3 +5,8 @@ mutation_prob = 0.01
 number_of_generations = 10*
 batch_size, random.choice (10, 32, 64)
 epoch=5 or 10
+
+PSO
+epochs = 5 or 10 or 20
+iters = 10, same as generations in GA
+n_particles = the higher the better, make 20, 50, 100. Particles and population are the same
