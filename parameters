@@ -10,3 +10,8 @@ PSO
 epochs = 5 or 10 or 20
 iters = 10, same as generations in GA
 n_particles = the higher the better, make 20, 50, 100. Particles and population are the same
+
+Firefly
+n_fireless = 10, 20, 50
+max_generations = 10, 15, 20
+epochs=10
