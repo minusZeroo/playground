@@ -1,3 +1,5 @@
+precision_score, recall_score, f1_score is what was improved.
+
 GA: ideal hyperparameters
 population size: 20*, 50, 100
 crossover_prob = 0.8
