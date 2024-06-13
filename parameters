@@ -1,0 +1,7 @@
+GA: ideal hyperparameters
+population size: 20*, 50, 100
+crossover_prob = 0.8
+mutation_prob = 0.01
+number_of_generations = 10*
+batch_size, random.choice (10, 32, 64)
+epoch=5 or 10
